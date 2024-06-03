@@ -1,0 +1,5 @@
+eval $("ssh-agent")
+
+ssh-add ~/.ssh/AirBnB
+
+ssh ubuntu@18.212.235.245
